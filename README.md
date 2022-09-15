@@ -5,5 +5,5 @@
 - 系級 ：科技系113級 
 
 # 作業繳交區
-[作業1](https://github.com/HSULW/PL/blob/main/python01.ipynb).\
+[作業1](https://github.com/HSULW/PL/blob/main/python01.ipynb)\
 [練習1](https://github.com/HSULW/PL/blob/main/Ex1.ipynb)
