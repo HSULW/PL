@@ -13,6 +13,6 @@
 
 
 1021\
-[作業2](https://github.com/pecu/PL/blob/main/HW2.ipynb)
+[作業2](https://github.com/HSULW/PL/blob/main/HW2.ipynb)
 
 ## 課程筆記區
