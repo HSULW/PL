@@ -1,0 +1,24 @@
+{
+  "Area": [
+    {
+      "attractions": "陽明山",
+      "place": "台北市"
+    },
+    {
+      "attractions": "太平山",
+      "place": "ㄧ藍縣"
+    },
+    {
+      "attractions": "阿里山",
+      "place": "嘉義縣"
+    },
+    {
+      "attractions": "八卦山",
+      "place": "彰化縣"
+    },
+    {
+      "attractions": "六十石山",
+      "place": "花蓮縣"
+    }
+  ]
+}

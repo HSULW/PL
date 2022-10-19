@@ -1,0 +1,24 @@
+{
+  "Area": [
+    {
+      "attractions": "故宮博物院",
+      "place": "台北市",
+      "year": "1925"
+    },
+    {
+      "attractions": "烏山頭水庫",
+      "place": "台南市",
+      "year": "1930"
+    },
+    {
+      "attractions": "85大樓",
+      "place": "高雄市",
+      "year": "1999"
+    },
+    {
+      "attractions": "海生館",
+      "place": "屏東縣",
+      "year": "2000"
+    }
+  ]
+}
