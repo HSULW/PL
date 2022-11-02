@@ -17,5 +17,5 @@
 
 1103\
 [作業3](https://github.com/HSULW/PL/blob/main/Untitled.ipynb)
-[CSV](https://github.com/HSULW/PL/blob/main/HW3.csv) [JSON]()
+[CSV](https://github.com/HSULW/PL/blob/main/HW3.csv) [JSON](https://github.com/HSULW/PL/blob/main/HW3.json)
 ## 課程筆記區
