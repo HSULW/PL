@@ -11,4 +11,8 @@
 [作業1](https://github.com/HSULW/PL/blob/main/python01.ipynb) 
 [練習1](https://github.com/HSULW/PL/blob/main/Ex1.ipynb)
 
+
+1020\
+[作業2](https://github.com/HSULW/PL/blob/main/HW2.ipynb)
+
 ## 課程筆記區
