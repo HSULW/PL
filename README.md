@@ -16,5 +16,6 @@
 [作業2](https://github.com/HSULW/PL/blob/main/HW2.ipynb)
 
 1103\
-[作業3]
+[作業3](https://github.com/HSULW/PL/blob/main/Untitled.ipynb)
+[CSV]() [JSON]()
 ## 課程筆記區
