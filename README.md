@@ -18,4 +18,6 @@
 1103\
 [作業3](https://github.com/HSULW/PL/blob/main/Untitled.ipynb)
 [CSV](https://github.com/HSULW/PL/blob/main/HW3.csv) [JSON](https://github.com/HSULW/PL/blob/main/HW3.json)
-## 課程筆記區
+
+## 作業補交區
+[作業1補交](https://github.com/HSULW/PL/blob/main/HW1.ipynb) 
