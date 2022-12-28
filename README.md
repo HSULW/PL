@@ -21,4 +21,5 @@
 
 ## 作業補交區
 [作業1補交](https://github.com/HSULW/PL/blob/main/HW1.ipynb) 
-[作業4補交](https://medium.com/@hsuwen2228/%E5%88%A9%E7%94%A8%E6%96%87%E5%AD%97%E6%8E%A2%E5%8B%98%E5%88%86%E6%9E%90%E5%8F%B0%E7%81%A3%E6%B5%B7%E6%B4%8B%E9%81%8A%E6%86%A9%E6%B4%BB%E5%8B%95-72b9beff0db4）
+[作業4補交](https://medium.com/@hsuwen2228/利用文字探勘分析台灣海洋遊憩活動-72b9beff0db4)
+
